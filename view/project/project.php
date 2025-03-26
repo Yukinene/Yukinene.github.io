@@ -17,6 +17,17 @@
                 </div>
             </div>
             </a>
+            <a href="http://github.com/Yukinene/CS01418321_SA_Project">
+            <div class="backdrop-blur-sm bg-white/20 p-6 rounded-md shadow-sm cursor-pointer border-2 border-gray-50 hover:border-violet-200 hover:border-2 transition-colors duration-300">
+                <h2 class="text-xl font-semibold mb-4">System Analysis and Design Project </h2>
+                <p class="text-gray-700">Application using Java.</p>
+                <div class="col-start-2 row-start-1 row-end-3 sm:mt-4 lg:mt-4 xl:mt-4">
+                <dd class="flex justify-end sm:justify-start lg:justify-end xl:justify-start -space-x-1.5">
+                    <img src="../images/java_icon.svg" alt="" class="w-6 h-6 rounded-full bg-violet-100" loading="lazy" >
+                </dd>
+                </div>
+            </div>
+            </a>
             <div class="backdrop-blur-sm bg-white/20 p-6 rounded-md shadow-sm cursor-pointer border-2 border-gray-50 hover:border-violet-200 hover:border-2 transition-colors duration-300">
                 <h2 class="text-xl font-semibold mb-4">Web Technology and Web Services Project </h2>
                 <p class="text-gray-700">Web application using Vue and JavaScript.</p>
